@@ -1,17 +1,17 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:6c63ff&height=220&section=header&text=Kumail%20Ameen&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=CS%20Designer%20%7C%20Developer%20%7C%20AI%20Engineer&descSize=20&descAlignY=55&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,50:6C63FF,100:E040FB&height=220&section=header&text=Kumail%20Ameen&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=CS%20Designer%20%7C%20Developer%20%7C%20AI%20Engineer&descSize=20&descAlignY=55&descAlign=50" width="100%"/>
 
 <!-- Typing Animation -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=Building+Intelligent+Systems+%F0%9F%A4%96;AI+%26+Machine+Learning+Engineer+%F0%9F%A7%A0;Full-Stack+Developer+%F0%9F%92%BB;Low-Level+Systems+Programmer+%E2%9A%99%EF%B8%8F;Always+Learning%2C+Always+Creating+%F0%9F%9A%80" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C9FF&center=true&vCenter=true&random=false&width=600&lines=Building+Intelligent+Systems+%F0%9F%A4%96;AI+%26+Machine+Learning+Engineer+%F0%9F%A7%A0;Full-Stack+Developer+%F0%9F%92%BB;Low-Level+Systems+Programmer+%E2%9A%99%EF%B8%8F;Always+Learning%2C+Always+Creating+%F0%9F%9A%80" alt="Typing SVG" /></a>
 
 <br/>
 
 <!-- Profile Views & Followers -->
-<img src="https://komarev.com/ghpvc/?username=Kumailameen-cyber&style=for-the-badge&color=6c63ff&labelColor=0d1117" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=Kumailameen-cyber&style=for-the-badge&color=00C9FF&labelColor=0d1117" alt="Profile Views"/>
 &nbsp;
-<a href="https://github.com/Kumailameen-cyber?tab=followers"><img src="https://img.shields.io/github/followers/Kumailameen-cyber?style=for-the-badge&color=6c63ff&labelColor=0d1117&logo=github" alt="Followers"/></a>
+<a href="https://github.com/Kumailameen-cyber?tab=followers"><img src="https://img.shields.io/github/followers/Kumailameen-cyber?style=for-the-badge&color=00C9FF&labelColor=0d1117&logo=github" alt="Followers"/></a>
 
 </div>
 
@@ -78,18 +78,21 @@ class KumailAmeen:
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Kumailameen-cyber&show_icons=true&theme=radical&bg_color=0d1117&border_color=6c63ff&icon_color=6c63ff&title_color=ffffff&text_color=a9a9a9&hide_border=false&count_private=true" alt="GitHub Stats"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Kumailameen-cyber&show_icons=true&bg_color=0d1117&border_color=00C9FF&icon_color=00C9FF&title_color=00C9FF&text_color=ffffff&hide_border=false&count_private=true&rank_icon=github" alt="GitHub Stats"/>
 &nbsp;
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Kumailameen-cyber&theme=radical&background=0d1117&border=6c63ff&stroke=6c63ff&ring=6c63ff&fire=ff6b6b&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=ffffff&sideNums=a9a9a9&dates=a9a9a9" alt="GitHub Streak"/>
+<img width="49%" src="https://streak-stats.demolab.com/?user=Kumailameen-cyber&background=0d1117&border=00C9FF&stroke=00C9FF&ring=00C9FF&fire=E040FB&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=00C9FF&sideNums=ffffff&dates=a9a9a9" alt="GitHub Streak"/>
 
 <br/><br/>
 
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kumailameen-cyber&layout=donut-vertical&theme=radical&bg_color=0d1117&border_color=6c63ff&title_color=ffffff&text_color=a9a9a9&hide_border=false&langs_count=8" alt="Top Languages"/>
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kumailameen-cyber&layout=donut-vertical&bg_color=0d1117&border_color=00C9FF&title_color=00C9FF&text_color=ffffff&hide_border=false&langs_count=8" alt="Top Languages"/>
 
 <br/><br/>
 
 <!-- Activity Graph -->
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Kumailameen-cyber&bg_color=0d1117&color=6c63ff&line=6c63ff&point=ffffff&area=true&area_color=6c63ff&hide_border=true&custom_title=Contribution%20Graph" alt="Activity Graph"/>
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Kumailameen-cyber&bg_color=0d1117&color=00C9FF&line=E040FB&point=ffffff&area=true&area_color=00C9FF&hide_border=true&custom_title=Contribution%20Graph" alt="Activity Graph"/>
+
+<!-- Profile Details -->
+<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kumailameen-cyber&theme=github_dark" alt="Profile Details"/>
 
 </div>
 
@@ -118,19 +121,8 @@ class KumailAmeen:
 
 <br/>
 
-<!-- Snake Animation -->
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kumailameen-cyber/Kumailameen-cyber/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kumailameen-cyber/Kumailameen-cyber/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Kumailameen-cyber/Kumailameen-cyber/output/github-snake-dark.svg" />
-</picture>
-</div>
-
-<br/>
-
 <!-- Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6c63ff,50:1a1b27,100:0d1117&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E040FB,50:6C63FF,100:00C9FF&height=120&section=footer" width="100%"/>
 
 <div align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
