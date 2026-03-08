@@ -78,13 +78,12 @@ class KumailAmeen:
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Kumailameen-cyber&show_icons=true&bg_color=0d1117&border_color=00C9FF&icon_color=00C9FF&title_color=00C9FF&text_color=ffffff&hide_border=false&count_private=true&rank_icon=github" alt="GitHub Stats"/>
-&nbsp;
+
 <img width="49%" src="https://streak-stats.demolab.com/?user=Kumailameen-cyber&background=0d1117&border=00C9FF&stroke=00C9FF&ring=00C9FF&fire=E040FB&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=00C9FF&sideNums=ffffff&dates=a9a9a9" alt="GitHub Streak"/>
 
 <br/><br/>
 
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kumailameen-cyber&layout=donut-vertical&bg_color=0d1117&border_color=00C9FF&title_color=00C9FF&text_color=ffffff&hide_border=false&langs_count=8" alt="Top Languages"/>
+
 
 <br/><br/>
 
